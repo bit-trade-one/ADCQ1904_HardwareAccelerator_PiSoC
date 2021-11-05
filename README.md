@@ -23,7 +23,7 @@ I2C接続の小型液晶が基板上に用意されている為計測結果を�
 **※本製品を使用するためには、トランジスタ技術2019年5月号に付属するTSoC基板が必要です。  
 使用方法に関してはトランジスタ技術2019年5月号より掲載の記事をご参照ください。**
 
-## [CQ出版社様特設ページ](https://toragi.cqpub.co.jp/tabid/902/Default.aspx)
+## [CQ出版社様特設ページ](https://toragi.cqpub.co.jp/tabid/902/Default.html)
 
 ## [BTO製品ページ](https://bit-trade-one.co.jp/adcq1904/)
 
